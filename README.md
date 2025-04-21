@@ -14,13 +14,13 @@ A smart toolchain that scrapes **AI-related hackathons and conferences** from tr
 ---
 
 ## 📁 Project Structure
-
-  AI_opportunity_scraper/ │ 
-    ├── conference_scraper.py # Scraper for AI Conferences (AllConferenceAlert) 
-    ├── hackathon_scraper.py # Scraper for AI Hackathons (Devpost) 
-    ├── csv/ # Output CSVs 
-    ├── json/ # Output JSONs 
-    └── dashboard/ # React + Tailwind frontend dashboard
+  
+    AI_opportunity_scraper/ │ 
+      ├── conference_scraper.py # Scraper for AI Conferences (AllConferenceAlert) 
+      ├── hackathon_scraper.py # Scraper for AI Hackathons (Devpost) 
+      ├── csv/ # Output CSVs 
+      ├── json/ # Output JSONs 
+      └── dashboard/ # React + Tailwind frontend dashboard
 
 
 ---
