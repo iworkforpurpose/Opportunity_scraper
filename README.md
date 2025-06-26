@@ -1,4 +1,4 @@
-# 🧠 AI Opportunity Scraper
+# 🧠 Opportunity Scraper
 
 A smart toolchain that scrapes **AI-related hackathons and conferences** from trusted sources like **Devpost** and **AllConferenceAlert**, stores them in CSV/JSON, and displays the data beautifully on a React-based web dashboard.
 
